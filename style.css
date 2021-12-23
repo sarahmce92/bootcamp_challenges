@@ -3,7 +3,7 @@ body {
 }
 
 .profile {
-  border: double rgb(255, 192, 203);
+  border: ridge rgb(255, 192, 203);
   padding: 50px;
   margin: 100px 500px;
 }
@@ -23,9 +23,12 @@ body {
 .name {
   display: flex;
   justify-content: center;
+  font-family: 'Oooh Baby', cursive;
 }
 
 .titles {
   display: flex;
   justify-content: space-around;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 20px;
 }
