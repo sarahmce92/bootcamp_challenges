@@ -2,7 +2,7 @@ body {
   background-color: rgb(188, 242, 255);
 }
 
-.profile {
+.main-divs {
   border: ridge rgb(255, 192, 203);
   padding: 50px;
   margin: 100px 500px;
