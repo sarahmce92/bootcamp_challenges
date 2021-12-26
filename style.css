@@ -4,6 +4,7 @@ body {
 
 .main-divs {
   border: ridge rgb(255, 192, 203);
+  border-radius: 5px;
   padding: 50px;
   margin: 100px 500px;
 }
@@ -70,4 +71,20 @@ a:hover {
 }
 .footer .fa-heart {
   color: rgb(250, 150, 167);;
+}
+
+@media (max-width: 960px) {
+  .container {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  .container {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  .container {
+    width: 300px;
+  }
 }
