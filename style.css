@@ -36,8 +36,9 @@ body {
 a {
   color:rgb(255, 192, 203);
   text-decoration: none;
+  font-weight: bold;
 }
 
 a:hover {
-  color:rgb(235, 14, 51);
+  color:rgb(250, 150, 167);
 }
